@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\bin\Debug\ConAppDay6Assign-1.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\bin\Debug\ConAppDay6Assign-1.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\bin\Debug\ConAppDay6Assign-1.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\obj\Debug\ConAppDay6Assign-1.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\obj\Debug\ConAppDay6Assign-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\obj\Debug\ConAppDay6Assign-1.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\obj\Debug\ConAppDay6Assign-1.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-6\ConAppDay6Assign-1\ConAppDay6Assign-1\obj\Debug\ConAppDay6Assign-1.pdb
